@@ -14,7 +14,7 @@ $ npm install tusd-static-linux
 ```js
 const tusd = require('tusd-static-linux')
 console.log(tusd.path)
-// '/home/werle/repos/little-core-labs/tusd-static-linux/bin/linux/x64/tusd'
+// '/home/werle/repos/little-core-labs/tusd-static-linux/bin/x64/tusd'
 ```
 
 ## See Also
