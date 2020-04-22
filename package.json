@@ -27,5 +27,6 @@
   "homepage": "https://github.com/little-core-labs/tusd-static-linux#readme",
   "devDependencies": {
     "tape": "^4.13.2"
-  }
+  },
+  "dependencies": {}
 }
